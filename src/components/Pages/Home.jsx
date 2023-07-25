@@ -34,21 +34,18 @@ export default function Home() {
   // FunFact Data
   const funfaceData = [
     {
-      title: 'Global Happy Clients',
-      factNumber: '40K',
+      title: 'Miles Of Filament',
+      factNumber: '40',
     },
     {
-      title: 'Project Completed',
-      factNumber: '50K',
+      title: 'Concept Projects Completed',
+      factNumber: '50+',
     },
     {
       title: 'Team Members',
-      factNumber: '245',
+      factNumber: '5',
     },
-    {
-      title: 'Digital products',
-      factNumber: '550',
-    },
+    
   ];
 
   useEffect(() => {
